@@ -1,6 +1,6 @@
 Julia Carrasco Zanini Sánchez
 
-##Avances 2
+## Avances 2
 
 1. Datos Obtenidos
 	- Genotipos
